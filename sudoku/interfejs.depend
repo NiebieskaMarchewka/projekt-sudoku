@@ -1,0 +1,5773 @@
+# depslib dependency file v1.0
+1621528182 source:c:\users\alice\desktop\sudoku\interfejs\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1621528182 c:\users\alice\desktop\sudoku\interfejs\interfejsapp.h
+	<wx/app.h>
+
+1619171547 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\app.h
+	"wx/event.h"
+	"wx/eventfilter.h"
+	"wx/build.h"
+	"wx/cmdargs.h"
+	"wx/init.h"
+	"wx/intl.h"
+	"wx/log.h"
+	"wx/unix/app.h"
+	"wx/msw/app.h"
+	"wx/motif/app.h"
+	"wx/dfb/app.h"
+	"wx/gtk/app.h"
+	"wx/gtk1/app.h"
+	"wx/x11/app.h"
+	"wx/osx/app.h"
+	"wx/cocoa/app.h"
+	"wx/os2/app.h"
+	"wx/univ/theme.h"
+
+1619171542 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/meta/convertible.h"
+	"wx/meta/removeref.h"
+
+1619171531 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\defs.h
+	"wx/platform.h"
+	"wx/version.h"
+	"wx/dlimpexp.h"
+	<stddef.h>
+	"wx/debug.h"
+	<sys/types.h>
+	<sys/types.h>
+	"wx/windowid.h"
+	<unistd.h>
+	"wx/msw/winundef.h"
+	"wx/features.h"
+
+1619171534 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\platform.h
+	<unistd.h>
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/osx/config_xcode.h"
+	"wx/android/config_android.h"
+	"wx/compiler.h"
+	"wx/setup.h"
+	"wx/msw/wince/libraries.h"
+	"wx/msw/libraries.h"
+	"wx/msw/gccpriv.h"
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/chkconf.h"
+
+1619171607 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\config_xcode.h
+
+1619171573 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\android\config_android.h
+
+1619171554 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\compiler.h
+
+1619171516 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\lib\gcc_lib\mswu\wx\setup.h
+
+1619171646 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\libraries.h
+
+1619171631 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\libraries.h
+
+1619171632 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\gccpriv.h
+	<_mingw.h>
+	<w32api.h>
+
+1619171554 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\chkconf.h
+	"wx/msw/wince/chkconf.h"
+	"wx/msw/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/cocoa/chkconf.h"
+	"wx/osx/chkconf.h"
+	"wx/os2/chkconf.h"
+	"wx/dfb/chkconf.h"
+	"wx/motif/chkconf.h"
+	"wx/x11/chkconf.h"
+	"wx/android/chkconf.h"
+	"wx/unix/chkconf.h"
+	"wx/univ/chkconf.h"
+
+1619171647 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\chkconf.h
+
+1619171638 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\chkconf.h
+
+1619171666 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\chkconf.h
+
+1619171733 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\chkconf.h
+
+1619171609 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\chkconf.h
+	"wx/osx/iphone/chkconf.h"
+	"wx/osx/carbon/chkconf.h"
+	"wx/osx/cocoa/chkconf.h"
+
+1619171615 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\iphone\chkconf.h
+
+1619171614 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\carbon\chkconf.h
+
+1619171616 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\cocoa\chkconf.h
+
+1619171683 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\chkconf.h
+
+1619171621 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\chkconf.h
+
+1619171587 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\chkconf.h
+
+1619171655 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\chkconf.h
+
+1619171573 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\android\chkconf.h
+
+1619171594 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\unix\chkconf.h
+
+1619171581 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\chkconf.h
+
+1619171526 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\version.h
+	"wx/cpp.h"
+
+1619171527 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cpp.h
+	"wx/compiler.h"
+
+1619171555 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dlimpexp.h
+
+1619171522 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\debug.h
+	<assert.h>
+	<limits.h>
+	"wx/chartype.h"
+	"wx/cpp.h"
+	"wx/dlimpexp.h"
+
+1619171553 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\chartype.h
+	"wx/platform.h"
+	<sys/types.h>
+	<wchar.h>
+	<wcstr.h>
+	<stdlib.h>
+	<widec.h>
+	<ctype.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<tchar.h>
+	<ctype.h>
+
+1619171517 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\windowid.h
+
+1619171630 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\winundef.h
+
+1619171518 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\features.h
+
+1619171521 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1619171549 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1619171562 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1619171538 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\wxcrtbase.h
+	"wx/chartype.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<wctype.h>
+	<time.h>
+	<io.h>
+
+1619171572 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\strvararg.h
+	"wx/platform.h"
+	"wx/cpp.h"
+	"wx/chartype.h"
+	"wx/strconv.h"
+	"wx/buffer.h"
+	"wx/unichar.h"
+	<type_traits>
+	<type_traits>
+	<tr1/type_traits>
+	"wx/stringimpl.h"
+
+1619171526 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\strconv.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/buffer.h"
+	"typeinfo.h"
+	<stdlib.h>
+	"wx/fontenc.h"
+
+1619171543 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\buffer.h
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+
+1619171532 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\typeinfo.h
+	"wx/defs.h"
+	<typeinfo>
+	<string.h>
+
+1619171523 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\fontenc.h
+
+1619171561 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\unichar.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+
+1619171549 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\stringimpl.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+	"wx/beforestd.h"
+	<string>
+	"wx/afterstd.h"
+
+1619171543 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\beforestd.h
+
+1619171557 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\afterstd.h
+	"wx/msw/winundef.h"
+
+1619171546 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\stringops.h
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	"wx/unichar.h"
+	"wx/buffer.h"
+
+1619171558 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/os2/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1619171640 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1619171636 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1619171567 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\thread.h
+	"wx/defs.h"
+
+1619171529 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\vector.h
+	"wx/defs.h"
+	<vector>
+	<algorithm>
+	"wx/scopeguard.h"
+	"wx/meta/movable.h"
+	"wx/meta/if.h"
+	"wx/beforestd.h"
+	<new>
+	"wx/afterstd.h"
+
+1619171544 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\scopeguard.h
+	"wx/defs.h"
+	"wx/except.h"
+
+1619171560 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\except.h
+	"wx/defs.h"
+
+1619171591 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\movable.h
+	"wx/meta/pod.h"
+	"wx/string.h"
+
+1619171592 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\pod.h
+	"wx/defs.h"
+
+1619171591 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\if.h
+	"wx/defs.h"
+
+1619171685 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\tls.h
+	"wx/os2/private.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1619171675 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\private.h
+	<os2.h>
+	<os2def.h>
+	<X11/Xmd.h>
+	<Xm/VendorSP.h>
+	<types.h>
+	<tcpustd.h>
+	<sys/time.h>
+	"wx/dlimpexp.h"
+	"wx/fontenc.h"
+	"wx/thread.h"
+
+1619171594 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\unix\tls.h
+	<pthread.h>
+
+1619171521 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\iosfwrap.h
+	<iostream.h>
+	<iosfwd>
+	"wx/msw/winundef.h"
+
+1619171540 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\crt.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrt.h"
+	"wx/wxcrtvararg.h"
+
+1619171522 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\wxcrt.h
+	"wx/wxcrtbase.h"
+	"wx/string.h"
+	<string.h>
+
+1619171562 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\wxcrtvararg.h
+	"wx/wxcrt.h"
+	"wx/strvararg.h"
+	"wx/string.h"
+	<stdarg.h>
+
+1619171533 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msgout.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/strvararg.h"
+
+1619171552 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\xti.h
+	"wx/defs.h"
+	"wx/xtitypes.h"
+	"wx/xtihandler.h"
+
+1619171552 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\xtitypes.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/flags.h"
+	"wx/intl.h"
+	"wx/log.h"
+	<typeinfo>
+
+1619171536 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\hashmap.h
+	"wx/string.h"
+	"wx/wxcrt.h"
+	<unordered_map>
+	<tr1/unordered_map>
+	<ext/hash_map>
+	<hash_map>
+	<stddef.h>
+
+1619171527 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\arrstr.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	"wx/beforestd.h"
+	<iterator>
+	"wx/afterstd.h"
+
+1619171569 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dynarray.h
+	"wx/defs.h"
+	"wx/beforestd.h"
+	<vector>
+	<algorithm>
+	"wx/afterstd.h"
+
+1619171525 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\flags.h
+
+1619171541 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\intl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/translation.h"
+	"wx/fontenc.h"
+	"wx/language.h"
+
+1619171570 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\translation.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/buffer.h"
+	"wx/language.h"
+	"wx/hashmap.h"
+	"wx/strconv.h"
+	"wx/scopedptr.h"
+
+1619171545 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\language.h
+	"wx/defs.h"
+
+1619171528 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\scopedptr.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1619171526 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\checkeddelete.h
+	"wx/cpp.h"
+
+1619171520 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\log.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+	"wx/cocoa/log.h"
+
+1619171709 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\logg.h
+
+1619171724 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\log.h
+
+1619171571 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\xtihandler.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1619171535 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\rtti.h
+	"wx/memory.h"
+	"wx/flags.h"
+
+1619171567 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\xti2.h
+	"wx/xtiprop.h"
+	"wx/xtictor.h"
+
+1619171556 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\xtiprop.h
+	"wx/defs.h"
+	"wx/xti.h"
+	"wx/any.h"
+
+1619171519 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\any.h
+	"wx/defs.h"
+	<new>
+	"wx/string.h"
+	"wx/meta/if.h"
+	"wx/typeinfo.h"
+	"wx/list.h"
+	"wx/datetime.h"
+	"wx/variant.h"
+
+1619171537 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/vector.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+
+1619171559 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\datetime.h
+	"wx/defs.h"
+	"wx/msw/wince/time.h"
+	<time.h>
+	<limits.h>
+	"wx/longlong.h"
+	"wx/anystr.h"
+	"wx/dynarray.h"
+
+1619171647 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\time.h
+
+1619171530 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\longlong.h
+	"wx/defs.h"
+	"wx/string.h"
+	<limits.h>
+	"wx/iosfwrap.h"
+	<limits>
+	"wx/strvararg.h"
+
+1619171517 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\anystr.h
+	"wx/string.h"
+
+1619171533 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\variant.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/arrstr.h"
+	"wx/list.h"
+	"wx/cpp.h"
+	"wx/longlong.h"
+	"wx/datetime.h"
+	"wx/iosfwrap.h"
+	"wx/any.h"
+
+1619171537 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\xtictor.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1619171629 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1619171556 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\clntdata.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+
+1619171530 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gdicmn.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/string.h"
+	"wx/fontenc.h"
+	"wx/hashmap.h"
+	"wx/math.h"
+
+1619171546 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\math.h
+	"wx/defs.h"
+	<math.h>
+	<cmath>
+	<float.h>
+	<ieeefp.h>
+
+1619171533 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cursor.h
+	"wx/defs.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/cocoa/cursor.h"
+	"wx/os2/cursor.h"
+	"wx/utils.h"
+
+1619171629 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\cursor.h
+	"wx/msw/gdiimage.h"
+
+1619171633 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1619171568 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gdiobj.h
+	"wx/object.h"
+
+1619171585 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171661 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171692 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1619171569 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\image.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/stream.h"
+	"wx/variant.h"
+	"wx/imagbmp.h"
+	"wx/imagpng.h"
+	"wx/imaggif.h"
+	"wx/imagpcx.h"
+	"wx/imagjpeg.h"
+	"wx/imagtga.h"
+	"wx/imagtiff.h"
+	"wx/imagpnm.h"
+	"wx/imagxpm.h"
+	"wx/imagiff.h"
+
+1619171563 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\stream.h
+	"wx/defs.h"
+	<stdio.h>
+	"wx/object.h"
+	"wx/string.h"
+	"wx/filefn.h"
+
+1619171519 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\filefn.h
+	"wx/list.h"
+	"wx/arrstr.h"
+	"wx/msw/wince/time.h"
+	"wx/msw/private.h"
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<process.h>
+	"wx/os2/private.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<unistd.h>
+	<dirent.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<io.h>
+	<unistd.h>
+	<dir.h>
+	<fcntl.h>
+	<sys/types.h>
+
+1619171624 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\private.h
+	"wx/msw/wrapwin.h"
+	"wx/msw/microwin.h"
+	"wx/log.h"
+	"wx/window.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1619171628 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\microwin.h
+
+1619171555 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/cocoa/window.h"
+	"wx/os2/window.h"
+	"wx/univ/window.h"
+
+1619171532 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/cocoa/font.h"
+	"wx/os2/font.h"
+
+1619171629 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1619171584 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\font.h
+
+1619171661 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\font.h
+
+1619171691 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1619171522 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\hash.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1619171652 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\font.h
+
+1619171619 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1619171621 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\dfbptr.h
+
+1619171603 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\font.h
+
+1619171727 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\font.h
+
+1619171677 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\font.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1619171542 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/cocoa/colour.h"
+	"wx/os2/colour.h"
+
+1619171633 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\colour.h
+	"wx/object.h"
+
+1619171586 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1619171664 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\colour.h
+
+1619171694 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1619171519 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/osx/palette.h"
+	"wx/os2/palette.h"
+
+1619171623 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1619171651 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\palette.h
+	"wx/list.h"
+
+1619171701 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171600 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\palette.h
+	"wx/gdiobj.h"
+
+1619171674 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\palette.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1619171706 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\colour.h
+	"wx/object.h"
+
+1619171654 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1619171606 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1619171618 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\core\colour.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/osx/core/cfref.h"
+
+1619171618 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\core\cfref.h
+	<unistd.h>
+	<AvailabilityMacros.h>
+
+1619171730 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1619171680 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\colour.h
+	"wx/object.h"
+
+1619171558 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/cocoa/region.h"
+	"wx/os2/region.h"
+
+1619171640 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\region.h
+
+1619171667 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\region.h
+
+1619171697 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1619171655 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\region.h
+	"wx/list.h"
+
+1619171621 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\region.h
+
+1619171611 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1619171614 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\carbon\region.h
+	"wx/list.h"
+
+1619171709 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\region.h
+
+1619171734 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\region.h
+	"wx/generic/region.h"
+
+1619171685 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\region.h
+	"wx/list.h"
+	"wx/os2/private.h"
+
+1619171562 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\utils.h
+	"wx/object.h"
+	"wx/list.h"
+	"wx/filefn.h"
+	"wx/hashmap.h"
+	"wx/versioninfo.h"
+	"wx/meta/implicitconversion.h"
+	"wx/gdicmn.h"
+	"wx/mousestate.h"
+	"wx/longlong.h"
+	"wx/platinfo.h"
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
+1619171542 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\versioninfo.h
+	"wx/string.h"
+
+1619171591 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\implicitconversion.h
+	"wx/defs.h"
+	"wx/meta/if.h"
+
+1619171526 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\mousestate.h
+	"wx/gdicmn.h"
+	"wx/kbdstate.h"
+
+1619171565 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\kbdstate.h
+	"wx/defs.h"
+
+1619171523 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\platinfo.h
+	"wx/string.h"
+
+1619171559 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\validate.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1619171536 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/generic/accel.h"
+	"wx/os2/accel.h"
+
+1619171705 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\accel.h
+
+1619171631 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\accel.h
+
+1619171585 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\accel.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/event.h"
+
+1619171662 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1619171693 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1619171605 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\accel.h
+	"wx/string.h"
+	"wx/event.h"
+
+1619171679 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\accel.h
+	"wx/object.h"
+
+1619171550 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1619171649 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\ole\access.h
+
+1619171639 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\window.h
+	"wx/settings.h"
+
+1619171532 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\settings.h
+	"wx/colour.h"
+	"wx/font.h"
+
+1619171588 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\window.h
+	"wx/region.h"
+
+1619171667 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1619171696 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\window.h
+
+1619171655 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\window.h
+	"wx/region.h"
+
+1619171621 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1619171610 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\window.h
+	"wx/brush.h"
+	"wx/dc.h"
+
+1619171537 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/brush.h"
+	"wx/x11/brush.h"
+	"wx/gtk/brush.h"
+	"wx/gtk1/brush.h"
+	"wx/dfb/brush.h"
+	"wx/osx/brush.h"
+	"wx/cocoa/brush.h"
+	"wx/os2/brush.h"
+
+1619171631 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\brush.h
+
+1619171653 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\brush.h
+	"wx/gdiobj.h"
+
+1619171663 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\brush.h
+
+1619171693 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1619171523 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/cocoa/bitmap.h"
+	"wx/os2/bitmap.h"
+	"wx/generic/mask.h"
+
+1619171625 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/math.h"
+	"wx/palette.h"
+
+1619171652 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1619171659 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\bitmap.h
+
+1619171690 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1619171619 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1619171602 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\bitmap.h
+	"wx/palette.h"
+
+1619171725 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\bitmap.h
+	"wx/palette.h"
+
+1619171676 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\bitmap.h
+	"wx/os2/private.h"
+	"wx/os2/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1619171681 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1619171703 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\mask.h
+
+1619171620 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1619171605 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1619171729 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1619171679 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\brush.h
+	"wx/bitmap.h"
+
+1619171553 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dc.h
+	"wx/object.h"
+	"wx/intl.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+	"wx/brush.h"
+	"wx/pen.h"
+	"wx/palette.h"
+	"wx/dynarray.h"
+	"wx/math.h"
+	"wx/image.h"
+	"wx/region.h"
+	"wx/affinematrix2d.h"
+
+1619171518 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/cocoa/pen.h"
+	"wx/os2/pen.h"
+
+1619171623 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171651 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1619171657 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\pen.h
+
+1619171689 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171619 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171600 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\pen.h
+	"wx/gdiobj.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+
+1619171724 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171674 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1619171542 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\affinematrix2d.h
+	"wx/defs.h"
+	"wx/affinematrix2dbase.h"
+
+1619171528 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\affinematrix2dbase.h
+	"wx/defs.h"
+	"wx/geometry.h"
+
+1619171539 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\geometry.h
+	"wx/defs.h"
+	"wx/utils.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+
+1619171733 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\window.h
+	"wx/cocoa/NSView.h"
+
+1619171731 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\nsview.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1619171728 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\objcassociate.h
+
+1619171684 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\window.h
+	<os2.h>
+	"wx/hash.h"
+
+1619171581 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\window.h
+	"wx/bitmap.h"
+
+1619171572 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagbmp.h
+	"wx/image.h"
+
+1619171534 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagpng.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1619171533 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imaggif.h
+	"wx/image.h"
+
+1619171540 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagpcx.h
+	"wx/image.h"
+
+1619171548 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagjpeg.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1619171527 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagtga.h
+	"wx/image.h"
+
+1619171525 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagtiff.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1619171561 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagpnm.h
+	"wx/image.h"
+
+1619171564 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagxpm.h
+	"wx/image.h"
+
+1619171538 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imagiff.h
+	"wx/image.h"
+
+1619171653 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1619171620 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1619171604 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\cursor.h
+	"wx/bitmap.h"
+
+1619171728 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\cursor.h
+	"wx/bitmap.h"
+
+1619171678 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\cursor.h
+	"wx/bitmap.h"
+
+1619171521 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\tracker.h
+	"wx/defs.h"
+
+1619171591 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\convertible.h
+
+1619171591 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\removeref.h
+
+1619171565 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\eventfilter.h
+	"wx/defs.h"
+
+1619171557 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\build.h
+	"wx/version.h"
+
+1619171540 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cmdargs.h
+	"wx/arrstr.h"
+
+1619171536 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\init.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/msw/init.h"
+
+1619171630 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\init.h
+	"wx/msw/wrapwin.h"
+
+1619171594 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\unix\app.h
+	<signal.h>
+
+1619171636 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\app.h
+	"wx/event.h"
+	"wx/icon.h"
+
+1619171566 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\icon.h
+	"wx/iconloc.h"
+	"wx/msw/icon.h"
+	"wx/motif/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/osx/icon.h"
+	"wx/generic/icon.h"
+	"wx/cocoa/icon.h"
+	"wx/os2/icon.h"
+	"wx/variant.h"
+
+1619171533 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\iconloc.h
+	"wx/string.h"
+
+1619171642 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\icon.h
+	"wx/msw/gdiimage.h"
+
+1619171590 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\icon.h
+	"wx/bitmap.h"
+
+1619171711 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\icon.h
+	"wx/bitmap.h"
+
+1619171612 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\icon.h
+	"wx/bitmap.h"
+
+1619171735 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\icon.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1619171687 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\icon.h
+	"wx/bitmap.h"
+	"wx/os2/gdiimage.h"
+
+1619171587 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\app.h
+	"wx/event.h"
+	"wx/hashmap.h"
+
+1619171620 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\app.h
+	"wx/dfb/dfbptr.h"
+	"wx/vidmode.h"
+
+1619171527 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\vidmode.h
+
+1619171665 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\app.h
+
+1619171695 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\app.h
+	"wx/frame.h"
+	"wx/icon.h"
+	"wx/strconv.h"
+
+1619171535 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\frame.h
+	"wx/toplevel.h"
+	"wx/statusbr.h"
+	"wx/univ/frame.h"
+	"wx/msw/frame.h"
+	"wx/gtk/frame.h"
+	"wx/gtk1/frame.h"
+	"wx/motif/frame.h"
+	"wx/osx/frame.h"
+	"wx/cocoa/frame.h"
+	"wx/os2/frame.h"
+
+1619171557 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\toplevel.h
+	"wx/nonownedwnd.h"
+	"wx/iconbndl.h"
+	"wx/weakref.h"
+	"wx/msw/toplevel.h"
+	"wx/gtk/toplevel.h"
+	"wx/gtk1/toplevel.h"
+	"wx/x11/toplevel.h"
+	"wx/dfb/toplevel.h"
+	"wx/osx/toplevel.h"
+	"wx/cocoa/toplevel.h"
+	"wx/os2/toplevel.h"
+	"wx/motif/toplevel.h"
+	"wx/univ/toplevel.h"
+
+1619171564 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/nonownedwnd.h"
+	"wx/gtk/nonownedwnd.h"
+	"wx/osx/nonownedwnd.h"
+	"wx/msw/nonownedwnd.h"
+
+1619171621 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/dfbptr.h"
+
+1619171669 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\nonownedwnd.h
+
+1619171612 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\nonownedwnd.h
+	"wx/window.h"
+	"wx/graphics.h"
+
+1619171552 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\graphics.h
+	"wx/defs.h"
+	"wx/geometry.h"
+	"wx/dynarray.h"
+	"wx/dc.h"
+	"wx/image.h"
+	"wx/vector.h"
+
+1619171642 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\nonownedwnd.h
+
+1619171519 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\iconbndl.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/icon.h"
+	"wx/dynarray.h"
+
+1619171525 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\weakref.h
+	"wx/tracker.h"
+	"wx/meta/convertible.h"
+	"wx/meta/int2type.h"
+
+1619171591 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\meta\int2type.h
+
+1619171640 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\toplevel.h
+
+1619171667 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\toplevel.h
+
+1619171697 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\toplevel.h
+
+1619171655 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\toplevel.h
+
+1619171621 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dfb\toplevel.h
+
+1619171610 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\toplevel.h
+
+1619171734 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\toplevel.h
+	"wx/hashmap.h"
+	"wx/cocoa/NSWindow.h"
+
+1619171734 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\nswindow.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1619171685 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\toplevel.h
+
+1619171589 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\toplevel.h
+
+1619171582 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\toplevel.h
+	"wx/univ/inpcons.h"
+	"wx/univ/inphand.h"
+	"wx/icon.h"
+
+1619171577 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\inpcons.h
+	"wx/object.h"
+	"wx/event.h"
+
+1619171583 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\inphand.h
+	"wx/univ/inpcons.h"
+
+1619171538 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\statusbr.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/list.h"
+	"wx/dynarray.h"
+	"wx/univ/statusbr.h"
+	"wx/msw/statusbar.h"
+	"wx/generic/statusbr.h"
+	"wx/osx/statusbr.h"
+	"wx/generic/statusbr.h"
+
+1619171556 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\control.h
+	"wx/defs.h"
+	"wx/window.h"
+	"wx/univ/control.h"
+	"wx/msw/control.h"
+	"wx/motif/control.h"
+	"wx/gtk/control.h"
+	"wx/gtk1/control.h"
+	"wx/osx/control.h"
+	"wx/cocoa/control.h"
+	"wx/os2/control.h"
+
+1619171582 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\control.h
+	"wx/univ/inphand.h"
+	"wx/univ/inpcons.h"
+
+1619171639 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\control.h
+	"wx/dynarray.h"
+
+1619171588 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\control.h
+	"wx/window.h"
+	"wx/list.h"
+	"wx/validate.h"
+
+1619171667 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\control.h
+
+1619171696 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\control.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+	"wx/window.h"
+
+1619171610 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\control.h
+
+1619171733 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\control.h
+	"wx/cocoa/NSControl.h"
+
+1619171727 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\nscontrol.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1619171684 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\control.h
+	"wx/dynarray.h"
+
+1619171579 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\statusbr.h
+	"wx/univ/inpcons.h"
+	"wx/arrstr.h"
+
+1619171644 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\statusbar.h
+	"wx/vector.h"
+	"wx/tooltip.h"
+
+1619171561 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\tooltip.h
+	"wx/defs.h"
+	"wx/msw/tooltip.h"
+	"wx/gtk/tooltip.h"
+	"wx/gtk1/tooltip.h"
+	"wx/osx/tooltip.h"
+	"wx/cocoa/tooltip.h"
+	"wx/os2/tooltip.h"
+
+1619171641 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\tooltip.h
+	"wx/object.h"
+	"wx/gdicmn.h"
+
+1619171668 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\tooltip.h
+	"wx/string.h"
+	"wx/object.h"
+
+1619171697 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\tooltip.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1619171611 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\tooltip.h
+	"wx/string.h"
+	"wx/event.h"
+
+1619171734 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\tooltip.h
+	"wx/object.h"
+
+1619171686 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\tooltip.h
+
+1619171705 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\statusbr.h
+	"wx/defs.h"
+	"wx/pen.h"
+	"wx/arrstr.h"
+
+1619171606 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\statusbr.h
+
+1619171579 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\frame.h
+
+1619171630 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\frame.h
+
+1619171662 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\frame.h
+
+1619171692 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\frame.h
+
+1619171585 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\frame.h
+
+1619171604 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\frame.h
+	"wx/toolbar.h"
+	"wx/accel.h"
+	"wx/icon.h"
+
+1619171535 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\toolbar.h
+	"wx/defs.h"
+	"wx/tbarbase.h"
+	"wx/univ/toolbar.h"
+	"wx/msw/toolbar.h"
+	"wx/msw/wince/tbarwce.h"
+	"wx/motif/toolbar.h"
+	"wx/gtk/toolbar.h"
+	"wx/gtk1/toolbar.h"
+	"wx/osx/toolbar.h"
+	"wx/cocoa/toolbar.h"
+	"wx/os2/toolbar.h"
+
+1619171550 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\tbarbase.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/list.h"
+	"wx/control.h"
+
+1619171579 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\toolbar.h
+	"wx/button.h"
+
+1619171569 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\button.h
+	"wx/defs.h"
+	"wx/anybutton.h"
+	"wx/univ/button.h"
+	"wx/msw/button.h"
+	"wx/motif/button.h"
+	"wx/gtk/button.h"
+	"wx/gtk1/button.h"
+	"wx/osx/button.h"
+	"wx/cocoa/button.h"
+	"wx/os2/button.h"
+
+1619171523 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\anybutton.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/control.h"
+	"wx/univ/anybutton.h"
+	"wx/msw/anybutton.h"
+	"wx/gtk/anybutton.h"
+	"wx/osx/anybutton.h"
+
+1619171578 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\anybutton.h
+
+1619171624 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\anybutton.h
+
+1619171658 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\anybutton.h
+
+1619171601 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\anybutton.h
+
+1619171583 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\button.h
+	"wx/bitmap.h"
+
+1619171643 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\button.h
+
+1619171590 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\button.h
+
+1619171669 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\button.h
+
+1619171698 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\button.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+
+1619171612 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\button.h
+	"wx/control.h"
+	"wx/gdicmn.h"
+
+1619171735 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\button.h
+	"wx/cocoa/NSButton.h"
+
+1619171733 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\nsbutton.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+	"wx/cocoa/ObjcRef.h"
+
+1619171724 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\objcref.h
+	"wx/osx/core/cfref.h"
+
+1619171688 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\button.h
+	"wx/control.h"
+
+1619171630 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\toolbar.h
+	"wx/dynarray.h"
+	"wx/imaglist.h"
+
+1619171553 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\imaglist.h
+	"wx/defs.h"
+	"wx/generic/imaglist.h"
+	"wx/msw/imaglist.h"
+	"wx/osx/imaglist.h"
+
+1619171708 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\imaglist.h
+	"wx/list.h"
+
+1619171638 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\imaglist.h
+	"wx/bitmap.h"
+
+1619171609 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\imaglist.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/icon.h"
+
+1619171647 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\tbarwce.h
+	"wx/dynarray.h"
+	"wx/msw/toolbar.h"
+
+1619171585 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\toolbar.h
+
+1619171661 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\toolbar.h
+
+1619171692 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\toolbar.h
+
+1619171604 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\toolbar.h
+	"wx/tbarbase.h"
+	"wx/dynarray.h"
+
+1619171728 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\toolbar.h
+
+1619171678 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\toolbar.h
+	"wx/timer.h"
+	"wx/tbarbase.h"
+
+1619171566 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\timer.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/longlong.h"
+	"wx/event.h"
+	"wx/stopwatch.h"
+	"wx/utils.h"
+
+1619171572 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\stopwatch.h
+	"wx/defs.h"
+	"wx/longlong.h"
+	"wx/time.h"
+
+1619171564 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\time.h
+	"wx/longlong.h"
+
+1619171728 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\frame.h
+
+1619171678 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\frame.h
+	"wx/os2/wxrsc.h"
+
+1619171677 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\wxrsc.h
+
+1619171654 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\app.h
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1619171608 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\app.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1619171732 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\app.h
+	"wx/osx/core/cfref.h"
+
+1619171682 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\app.h
+	<types.h>
+	<sys/ioctl.h>
+	<sys/select.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<utils.h>
+	<types.h>
+	"wx/event.h"
+	"wx/icon.h"
+
+1619171582 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\theme.h
+	"wx/string.h"
+
+1621543009 c:\users\alice\desktop\sudoku\interfejs\interfejsmain.h
+	<wx/dialog.h>
+	<wx/sizer.h>
+	<wx/stattext.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1619171530 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\dialog.h
+	"wx/toplevel.h"
+	"wx/containr.h"
+	"wx/sharedptr.h"
+	"wx/univ/dialog.h"
+	"wx/msw/dialog.h"
+	"wx/motif/dialog.h"
+	"wx/gtk/dialog.h"
+	"wx/gtk1/dialog.h"
+	"wx/osx/dialog.h"
+	"wx/cocoa/dialog.h"
+	"wx/os2/dialog.h"
+
+1619171538 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\containr.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1619171561 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\sharedptr.h
+	"wx/defs.h"
+	"wx/atomic.h"
+
+1619171526 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\atomic.h
+	"wx/defs.h"
+	"wx/msw/wrapwin.h"
+	"libkern/OSAtomic.h"
+	<atomic.h>
+	"wx/thread.h"
+
+1619171579 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\dialog.h
+
+1619171627 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\dialog.h
+	"wx/panel.h"
+
+1619171525 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\panel.h
+	"wx/window.h"
+	"wx/containr.h"
+	"wx/univ/panel.h"
+	"wx/msw/panel.h"
+	"wx/generic/panelg.h"
+
+1619171578 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\panel.h
+
+1619171626 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\panel.h
+
+1619171701 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\panelg.h
+	"wx/bitmap.h"
+
+1619171584 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\dialog.h
+
+1619171660 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\dialog.h
+
+1619171691 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\dialog.h
+
+1619171603 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\dialog.h
+	"wx/panel.h"
+
+1619171726 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\dialog.h
+	"wx/defs.h"
+	"wx/panel.h"
+	"wx/cocoa/NSPanel.h"
+
+1619171726 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\nspanel.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1619171676 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\dialog.h
+	"wx/panel.h"
+
+1619171564 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\sizer.h
+	"wx/defs.h"
+	"wx/window.h"
+
+1619171540 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\stattext.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/univ/stattext.h"
+	"wx/msw/stattext.h"
+	"wx/motif/stattext.h"
+	"wx/gtk/stattext.h"
+	"wx/gtk1/stattext.h"
+	"wx/osx/stattext.h"
+	"wx/cocoa/stattext.h"
+	"wx/os2/stattext.h"
+
+1619171580 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\stattext.h
+	"wx/generic/stattextg.h"
+
+1619171704 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\stattextg.h
+	"wx/stattext.h"
+
+1619171633 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\stattext.h
+
+1619171586 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\stattext.h
+
+1619171664 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\stattext.h
+
+1619171694 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\stattext.h
+
+1619171606 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\stattext.h
+
+1619171729 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\stattext.h
+	"wx/cocoa/NSTextField.h"
+
+1619171726 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\nstextfield.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1619171680 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\stattext.h
+	"wx/control.h"
+
+1619171521 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\textctrl.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/textentry.h"
+	"wx/dynarray.h"
+	"wx/gdicmn.h"
+	"wx/ioswrap.h"
+	"wx/x11/textctrl.h"
+	"wx/univ/textctrl.h"
+	"wx/msw/wince/textctrlce.h"
+	"wx/msw/textctrl.h"
+	"wx/motif/textctrl.h"
+	"wx/gtk/textctrl.h"
+	"wx/gtk1/textctrl.h"
+	"wx/osx/textctrl.h"
+	"wx/cocoa/textctrl.h"
+	"wx/os2/textctrl.h"
+
+1619171543 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\textentry.h
+	"wx/filefn.h"
+	"wx/gdicmn.h"
+	"wx/gtk/textentry.h"
+	"wx/osx/textentry.h"
+	"wx/msw/textentry.h"
+	"wx/motif/textentry.h"
+	"wx/os2/textentry.h"
+
+1619171664 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\textentry.h
+
+1619171606 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\textentry.h
+	"wx/control.h"
+
+1619171633 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\textentry.h
+
+1619171586 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\textentry.h
+
+1619171681 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\textentry.h
+
+1619171558 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\ioswrap.h
+	"wx/beforestd.h"
+	<iostream.h>
+	<iostream>
+	"wx/afterstd.h"
+	"wx/msw/winundef.h"
+
+1619171651 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\x11\textctrl.h
+	"wx/univ/textctrl.h"
+	"wx/scrolwin.h"
+	"wx/arrstr.h"
+
+1619171578 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\textctrl.h
+	"wx/scrolwin.h"
+	"wx/univ/inphand.h"
+
+1619171541 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\scrolwin.h
+	"wx/panel.h"
+	"wx/gtk/scrolwin.h"
+	"wx/gtk1/scrolwin.h"
+	"wx/generic/scrolwin.h"
+
+1619171664 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\scrolwin.h
+
+1619171694 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\scrolwin.h
+
+1619171706 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\scrolwin.h
+
+1619171646 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\textctrlce.h
+	"wx/dynarray.h"
+
+1619171623 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\textctrl.h
+
+1619171583 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\textctrl.h
+
+1619171658 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\textctrl.h
+
+1619171690 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\textctrl.h
+
+1619171601 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\textctrl.h
+	"wx/control.h"
+	"wx/textctrl.h"
+
+1619171725 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\textctrl.h
+	"wx/cocoa/NSTextField.h"
+
+1619171675 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\textctrl.h
+
+1619171570 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\tglbtn.h
+	"wx/defs.h"
+	"wx/event.h"
+	"wx/anybutton.h"
+	"wx/univ/tglbtn.h"
+	"wx/msw/tglbtn.h"
+	"wx/gtk/tglbtn.h"
+	"wx/gtk1/tglbtn.h"
+	"wx/motif/tglbtn.h"
+	"wx/osx/tglbtn.h"
+	"wx/os2/tglbtn.h"
+
+1619171583 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\tglbtn.h
+	"wx/button.h"
+
+1619171643 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\tglbtn.h
+	"wx/bitmap.h"
+
+1619171669 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\tglbtn.h
+	"wx/bitmap.h"
+
+1619171698 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\tglbtn.h
+	"wx/bitmap.h"
+
+1619171590 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\tglbtn.h
+	"wx/checkbox.h"
+
+1619171561 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\checkbox.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/univ/checkbox.h"
+	"wx/msw/checkbox.h"
+	"wx/motif/checkbox.h"
+	"wx/gtk/checkbox.h"
+	"wx/gtk1/checkbox.h"
+	"wx/osx/checkbox.h"
+	"wx/cocoa/checkbox.h"
+	"wx/os2/checkbox.h"
+
+1619171582 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\univ\checkbox.h
+	"wx/button.h"
+
+1619171641 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\checkbox.h
+
+1619171589 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\checkbox.h
+
+1619171668 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\checkbox.h
+
+1619171697 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\checkbox.h
+
+1619171611 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\checkbox.h
+
+1619171734 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\checkbox.h
+	"wx/cocoa/NSButton.h"
+
+1619171686 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\checkbox.h
+	"wx/control.h"
+
+1619171612 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\tglbtn.h
+
+1619171689 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\tglbtn.h
+
+1584209018 source:c:\users\alice\desktop\sudoku\interfejs\resource.rc
+	"wx/msw/wx.rc"
+
+1619171628 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/wince/wince.rc"
+	"wx/msw/rcdefs.h"
+
+1619171648 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\wince.rc
+	<commctrl.h>
+	"wx/msw/wince/resources.h"
+	"wx/msw/wince/smartphone.rc"
+
+1619171647 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\resources.h
+
+1619171646 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\wince\smartphone.rc
+	<aygshell.h>
+
+1619171622 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\rcdefs.h
+
+1621542767 source:c:\users\alice\desktop\sudoku\interfejs\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1619171572 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msgdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/stockitem.h"
+	"wx/generic/msgdlgg.h"
+	"wx/cocoa/msgdlg.h"
+	"wx/msw/msgdlg.h"
+	"wx/motif/msgdlg.h"
+	"wx/gtk/msgdlg.h"
+	"wx/osx/msgdlg.h"
+	"wx/os2/msgdlg.h"
+
+1619171539 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\stockitem.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/string.h"
+	"wx/accel.h"
+
+1619171710 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\msgdlgg.h
+
+1619171736 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\msgdlg.h
+	"wx/msgdlg.h"
+	"wx/generic/msgdlgg.h"
+
+1619171644 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\msgdlg.h
+
+1619171590 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\msgdlg.h
+
+1619171669 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\msgdlg.h
+
+1619171612 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\msgdlg.h
+
+1619171689 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\msgdlg.h
+
+1621528182 source:c:\users\alice\desktop\sudoku\interfejs — kopia\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1621528182 c:\users\alice\desktop\sudoku\interfejs — kopia\interfejsapp.h
+	<wx/app.h>
+
+1621705806 c:\users\alice\desktop\sudoku\interfejs — kopia\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1621697086 source:c:\users\alice\desktop\sudoku\interfejs — kopia\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1584209018 source:c:\users\alice\desktop\sudoku\interfejs — kopia\resource.rc
+	"wx/msw/wx.rc"
+
+1619171531 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\filedlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/arrstr.h"
+	"wx/generic/filedlgg.h"
+	"wx/msw/filedlg.h"
+	"wx/motif/filedlg.h"
+	"wx/gtk/filedlg.h"
+	"wx/gtk1/filedlg.h"
+	"wx/osx/filedlg.h"
+	"wx/cocoa/filedlg.h"
+	"wx/os2/filedlg.h"
+
+1619171708 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\filedlgg.h
+	"wx/listctrl.h"
+	"wx/datetime.h"
+	"wx/filefn.h"
+	"wx/artprov.h"
+	"wx/filedlg.h"
+	"wx/generic/filectrlg.h"
+
+1619171558 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\listctrl.h
+	"wx/defs.h"
+	"wx/listbase.h"
+	"wx/msw/listctrl.h"
+	"wx/osx/listctrl.h"
+	"wx/generic/listctrl.h"
+
+1619171532 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\listbase.h
+	"wx/colour.h"
+	"wx/font.h"
+	"wx/gdicmn.h"
+	"wx/event.h"
+	"wx/control.h"
+
+1619171640 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\listctrl.h
+	"wx/textctrl.h"
+	"wx/dynarray.h"
+	"wx/vector.h"
+
+1619171610 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\listctrl.h
+	"wx/defs.h"
+	"wx/generic/listctrl.h"
+
+1619171709 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\listctrl.h
+	"wx/containr.h"
+	"wx/scrolwin.h"
+	"wx/textctrl.h"
+
+1619171561 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\artprov.h
+	"wx/string.h"
+	"wx/bitmap.h"
+	"wx/icon.h"
+	"wx/iconbndl.h"
+
+1619171703 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\generic\filectrlg.h
+	"wx/containr.h"
+	"wx/listctrl.h"
+	"wx/filectrl.h"
+	"wx/filename.h"
+
+1619171520 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\filectrl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/event.h"
+	"wx/gtk/filectrl.h"
+	"wx/generic/filectrlg.h"
+
+1619171657 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\filectrl.h
+	"wx/control.h"
+	"wx/filectrl.h"
+
+1619171529 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\filename.h
+	"wx/arrstr.h"
+	"wx/filefn.h"
+	"wx/datetime.h"
+	"wx/intl.h"
+	"wx/longlong.h"
+	"wx/file.h"
+
+1619171539 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\file.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/convauto.h"
+
+1619171567 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\convauto.h
+	"wx/strconv.h"
+	"wx/fontenc.h"
+
+1619171628 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\msw\filedlg.h
+
+1619171584 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\motif\filedlg.h
+
+1619171661 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk\filedlg.h
+	"wx/gtk/filectrl.h"
+
+1619171691 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\gtk1\filedlg.h
+	"wx/generic/filedlgg.h"
+
+1619171603 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\osx\filedlg.h
+
+1619171727 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\cocoa\filedlg.h
+
+1619171677 c:\users\alice\desktop\progr2s\wxwidgets-3.0.5\include\wx\os2\filedlg.h
+
+1621703040 source:c:\users\alice\desktop\sudoku\interfejs — kopia\src\nowaklasa1.cpp
+	"nowaklasa1.h"
+	<fstream>
+
+1621703249 c:\users\alice\desktop\sudoku\interfejs — kopia\include\nowaklasa1.h
+	<iostream>
+
+1621528182 source:c:\users\marci\desktop\interfejs — kopia\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1621528182 c:\users\marci\desktop\interfejs — kopia\interfejsapp.h
+	<wx/app.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\app.h
+	"wx/event.h"
+	"wx/eventfilter.h"
+	"wx/build.h"
+	"wx/cmdargs.h"
+	"wx/init.h"
+	"wx/intl.h"
+	"wx/log.h"
+	"wx/unix/app.h"
+	"wx/msw/app.h"
+	"wx/motif/app.h"
+	"wx/dfb/app.h"
+	"wx/gtk/app.h"
+	"wx/gtk1/app.h"
+	"wx/x11/app.h"
+	"wx/osx/app.h"
+	"wx/cocoa/app.h"
+	"wx/os2/app.h"
+	"wx/univ/theme.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/meta/convertible.h"
+	"wx/meta/removeref.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\defs.h
+	"wx/platform.h"
+	"wx/version.h"
+	"wx/dlimpexp.h"
+	<stddef.h>
+	"wx/debug.h"
+	<sys/types.h>
+	<sys/types.h>
+	"wx/windowid.h"
+	<unistd.h>
+	"wx/msw/winundef.h"
+	"wx/features.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\platform.h
+	<unistd.h>
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/osx/config_xcode.h"
+	"wx/android/config_android.h"
+	"wx/compiler.h"
+	"wx/setup.h"
+	"wx/msw/wince/libraries.h"
+	"wx/msw/libraries.h"
+	"wx/msw/gccpriv.h"
+	<TargetConditionals.h>
+	<AvailabilityMacros.h>
+	"wx/chkconf.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\config_xcode.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\android\config_android.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\compiler.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\lib\gcc_lib\mswu\wx\setup.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\libraries.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\libraries.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\gccpriv.h
+	<_mingw.h>
+	<w32api.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\chkconf.h
+	"wx/msw/wince/chkconf.h"
+	"wx/msw/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/gtk/chkconf.h"
+	"wx/cocoa/chkconf.h"
+	"wx/osx/chkconf.h"
+	"wx/os2/chkconf.h"
+	"wx/dfb/chkconf.h"
+	"wx/motif/chkconf.h"
+	"wx/x11/chkconf.h"
+	"wx/android/chkconf.h"
+	"wx/unix/chkconf.h"
+	"wx/univ/chkconf.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\chkconf.h
+	"wx/osx/iphone/chkconf.h"
+	"wx/osx/carbon/chkconf.h"
+	"wx/osx/cocoa/chkconf.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\iphone\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\carbon\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\cocoa\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\android\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\unix\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\chkconf.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\version.h
+	"wx/cpp.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cpp.h
+	"wx/compiler.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dlimpexp.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\debug.h
+	<assert.h>
+	<limits.h>
+	"wx/chartype.h"
+	"wx/cpp.h"
+	"wx/dlimpexp.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\chartype.h
+	"wx/platform.h"
+	<sys/types.h>
+	<wchar.h>
+	<wcstr.h>
+	<stdlib.h>
+	<widec.h>
+	<ctype.h>
+	<stddef.h>
+	<string.h>
+	<ctype.h>
+	<tchar.h>
+	<ctype.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\windowid.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\winundef.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\features.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\memory.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/msgout.h"
+	<stddef.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\wxcrtbase.h
+	"wx/chartype.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<wctype.h>
+	<time.h>
+	<io.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\strvararg.h
+	"wx/platform.h"
+	"wx/cpp.h"
+	"wx/chartype.h"
+	"wx/strconv.h"
+	"wx/buffer.h"
+	"wx/unichar.h"
+	<type_traits>
+	<type_traits>
+	<tr1/type_traits>
+	"wx/stringimpl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\strconv.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/buffer.h"
+	"typeinfo.h"
+	<stdlib.h>
+	"wx/fontenc.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\buffer.h
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\typeinfo.h
+	"wx/defs.h"
+	<typeinfo>
+	<string.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\fontenc.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\unichar.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\stringimpl.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrtbase.h"
+	<stdlib.h>
+	"wx/beforestd.h"
+	<string>
+	"wx/afterstd.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\beforestd.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\afterstd.h
+	"wx/msw/winundef.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\stringops.h
+	"wx/chartype.h"
+	"wx/stringimpl.h"
+	"wx/unichar.h"
+	"wx/buffer.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/os2/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\thread.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\vector.h
+	"wx/defs.h"
+	<vector>
+	<algorithm>
+	"wx/scopeguard.h"
+	"wx/meta/movable.h"
+	"wx/meta/if.h"
+	"wx/beforestd.h"
+	<new>
+	"wx/afterstd.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\scopeguard.h
+	"wx/defs.h"
+	"wx/except.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\except.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\movable.h
+	"wx/meta/pod.h"
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\pod.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\if.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\tls.h
+	"wx/os2/private.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\private.h
+	<os2.h>
+	<os2def.h>
+	<X11/Xmd.h>
+	<Xm/VendorSP.h>
+	<types.h>
+	<tcpustd.h>
+	<sys/time.h>
+	"wx/dlimpexp.h"
+	"wx/fontenc.h"
+	"wx/thread.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\unix\tls.h
+	<pthread.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\iosfwrap.h
+	<iostream.h>
+	<iosfwd>
+	"wx/msw/winundef.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\crt.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/wxcrt.h"
+	"wx/wxcrtvararg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\wxcrt.h
+	"wx/wxcrtbase.h"
+	"wx/string.h"
+	<string.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\wxcrtvararg.h
+	"wx/wxcrt.h"
+	"wx/strvararg.h"
+	"wx/string.h"
+	<stdarg.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msgout.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/strvararg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\xti.h
+	"wx/defs.h"
+	"wx/xtitypes.h"
+	"wx/xtihandler.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\xtitypes.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/flags.h"
+	"wx/intl.h"
+	"wx/log.h"
+	<typeinfo>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\hashmap.h
+	"wx/string.h"
+	"wx/wxcrt.h"
+	<unordered_map>
+	<tr1/unordered_map>
+	<ext/hash_map>
+	<hash_map>
+	<stddef.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\arrstr.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	"wx/beforestd.h"
+	<iterator>
+	"wx/afterstd.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dynarray.h
+	"wx/defs.h"
+	"wx/beforestd.h"
+	<vector>
+	<algorithm>
+	"wx/afterstd.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\flags.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\intl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/translation.h"
+	"wx/fontenc.h"
+	"wx/language.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\translation.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/buffer.h"
+	"wx/language.h"
+	"wx/hashmap.h"
+	"wx/strconv.h"
+	"wx/scopedptr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\language.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\scopedptr.h
+	"wx/defs.h"
+	"wx/checkeddelete.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\checkeddelete.h
+	"wx/cpp.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\log.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+	"wx/cocoa/log.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\logg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\log.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\xtihandler.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\rtti.h
+	"wx/memory.h"
+	"wx/flags.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\xti2.h
+	"wx/xtiprop.h"
+	"wx/xtictor.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\xtiprop.h
+	"wx/defs.h"
+	"wx/xti.h"
+	"wx/any.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\any.h
+	"wx/defs.h"
+	<new>
+	"wx/string.h"
+	"wx/meta/if.h"
+	"wx/typeinfo.h"
+	"wx/list.h"
+	"wx/datetime.h"
+	"wx/variant.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/vector.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\datetime.h
+	"wx/defs.h"
+	"wx/msw/wince/time.h"
+	<time.h>
+	<limits.h>
+	"wx/longlong.h"
+	"wx/anystr.h"
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\time.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\longlong.h
+	"wx/defs.h"
+	"wx/string.h"
+	<limits.h>
+	"wx/iosfwrap.h"
+	<limits>
+	"wx/strvararg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\anystr.h
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\variant.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/arrstr.h"
+	"wx/list.h"
+	"wx/cpp.h"
+	"wx/longlong.h"
+	"wx/datetime.h"
+	"wx/iosfwrap.h"
+	"wx/any.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\xtictor.h
+	"wx/defs.h"
+	"wx/xti.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\clntdata.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/hashmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gdicmn.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/string.h"
+	"wx/fontenc.h"
+	"wx/hashmap.h"
+	"wx/math.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\math.h
+	"wx/defs.h"
+	<math.h>
+	<cmath>
+	<float.h>
+	<ieeefp.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cursor.h
+	"wx/defs.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/cocoa/cursor.h"
+	"wx/os2/cursor.h"
+	"wx/utils.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\cursor.h
+	"wx/msw/gdiimage.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gdiobj.h
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\image.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/hashmap.h"
+	"wx/arrstr.h"
+	"wx/stream.h"
+	"wx/variant.h"
+	"wx/imagbmp.h"
+	"wx/imagpng.h"
+	"wx/imaggif.h"
+	"wx/imagpcx.h"
+	"wx/imagjpeg.h"
+	"wx/imagtga.h"
+	"wx/imagtiff.h"
+	"wx/imagpnm.h"
+	"wx/imagxpm.h"
+	"wx/imagiff.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\stream.h
+	"wx/defs.h"
+	<stdio.h>
+	"wx/object.h"
+	"wx/string.h"
+	"wx/filefn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\filefn.h
+	"wx/list.h"
+	"wx/arrstr.h"
+	"wx/msw/wince/time.h"
+	"wx/msw/private.h"
+	<time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<process.h>
+	"wx/os2/private.h"
+	<direct.h>
+	<io.h>
+	<unistd.h>
+	<unistd.h>
+	<dirent.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<direct.h>
+	<dos.h>
+	<io.h>
+	<io.h>
+	<unistd.h>
+	<dir.h>
+	<fcntl.h>
+	<sys/types.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\private.h
+	"wx/msw/wrapwin.h"
+	"wx/msw/microwin.h"
+	"wx/log.h"
+	"wx/window.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\microwin.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/cocoa/window.h"
+	"wx/os2/window.h"
+	"wx/univ/window.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/cocoa/font.h"
+	"wx/os2/font.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\font.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\font.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\hash.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\font.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\dfbptr.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\font.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\font.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\font.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/cocoa/colour.h"
+	"wx/os2/colour.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\colour.h
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\colour.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/osx/palette.h"
+	"wx/os2/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\palette.h
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\palette.h
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\palette.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\colour.h
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\core\colour.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/osx/core/cfref.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\core\cfref.h
+	<unistd.h>
+	<AvailabilityMacros.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\colour.h
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/cocoa/region.h"
+	"wx/os2/region.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\region.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\region.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\region.h
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\region.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\carbon\region.h
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\region.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\region.h
+	"wx/generic/region.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\region.h
+	"wx/list.h"
+	"wx/os2/private.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\utils.h
+	"wx/object.h"
+	"wx/list.h"
+	"wx/filefn.h"
+	"wx/hashmap.h"
+	"wx/versioninfo.h"
+	"wx/meta/implicitconversion.h"
+	"wx/gdicmn.h"
+	"wx/mousestate.h"
+	"wx/longlong.h"
+	"wx/platinfo.h"
+	<direct.h>
+	<dirent.h>
+	<unistd.h>
+	<stdio.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\versioninfo.h
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\implicitconversion.h
+	"wx/defs.h"
+	"wx/meta/if.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\mousestate.h
+	"wx/gdicmn.h"
+	"wx/kbdstate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\kbdstate.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\platinfo.h
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\validate.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/generic/accel.h"
+	"wx/os2/accel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\accel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\accel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\accel.h
+	"wx/object.h"
+	"wx/string.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\accel.h
+	"wx/string.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\accel.h
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\ole\access.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\window.h
+	"wx/settings.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\settings.h
+	"wx/colour.h"
+	"wx/font.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\window.h
+	"wx/region.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\window.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\window.h
+	"wx/region.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\window.h
+	"wx/brush.h"
+	"wx/dc.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/brush.h"
+	"wx/x11/brush.h"
+	"wx/gtk/brush.h"
+	"wx/gtk1/brush.h"
+	"wx/dfb/brush.h"
+	"wx/osx/brush.h"
+	"wx/cocoa/brush.h"
+	"wx/os2/brush.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\brush.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\brush.h
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\brush.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/cocoa/bitmap.h"
+	"wx/os2/bitmap.h"
+	"wx/generic/mask.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/math.h"
+	"wx/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\bitmap.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\bitmap.h
+	"wx/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\bitmap.h
+	"wx/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\bitmap.h
+	"wx/os2/private.h"
+	"wx/os2/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\mask.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\brush.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\brush.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\brush.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dc.h
+	"wx/object.h"
+	"wx/intl.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+	"wx/brush.h"
+	"wx/pen.h"
+	"wx/palette.h"
+	"wx/dynarray.h"
+	"wx/math.h"
+	"wx/image.h"
+	"wx/region.h"
+	"wx/affinematrix2d.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/cocoa/pen.h"
+	"wx/os2/pen.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\pen.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\pen.h
+	"wx/gdiobj.h"
+	"wx/colour.h"
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\affinematrix2d.h
+	"wx/defs.h"
+	"wx/affinematrix2dbase.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\affinematrix2dbase.h
+	"wx/defs.h"
+	"wx/geometry.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\geometry.h
+	"wx/defs.h"
+	"wx/utils.h"
+	"wx/gdicmn.h"
+	"wx/math.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\window.h
+	"wx/cocoa/NSView.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\nsview.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\objcassociate.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\window.h
+	<os2.h>
+	"wx/hash.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\window.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagbmp.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagpng.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imaggif.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagpcx.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagjpeg.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagtga.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagtiff.h
+	"wx/defs.h"
+	"wx/image.h"
+	"wx/versioninfo.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagpnm.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagxpm.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imagiff.h
+	"wx/image.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\cursor.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\cursor.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\cursor.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\tracker.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\convertible.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\removeref.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\eventfilter.h
+	"wx/defs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\build.h
+	"wx/version.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cmdargs.h
+	"wx/arrstr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\init.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/msw/init.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\init.h
+	"wx/msw/wrapwin.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\unix\app.h
+	<signal.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\app.h
+	"wx/event.h"
+	"wx/icon.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\icon.h
+	"wx/iconloc.h"
+	"wx/msw/icon.h"
+	"wx/motif/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/osx/icon.h"
+	"wx/generic/icon.h"
+	"wx/cocoa/icon.h"
+	"wx/os2/icon.h"
+	"wx/variant.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\iconloc.h
+	"wx/string.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\icon.h
+	"wx/msw/gdiimage.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\icon.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\icon.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\icon.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\icon.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\icon.h
+	"wx/bitmap.h"
+	"wx/os2/gdiimage.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\app.h
+	"wx/event.h"
+	"wx/hashmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\app.h
+	"wx/dfb/dfbptr.h"
+	"wx/vidmode.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\vidmode.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\app.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\app.h
+	"wx/frame.h"
+	"wx/icon.h"
+	"wx/strconv.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\frame.h
+	"wx/toplevel.h"
+	"wx/statusbr.h"
+	"wx/univ/frame.h"
+	"wx/msw/frame.h"
+	"wx/gtk/frame.h"
+	"wx/gtk1/frame.h"
+	"wx/motif/frame.h"
+	"wx/osx/frame.h"
+	"wx/cocoa/frame.h"
+	"wx/os2/frame.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\toplevel.h
+	"wx/nonownedwnd.h"
+	"wx/iconbndl.h"
+	"wx/weakref.h"
+	"wx/msw/toplevel.h"
+	"wx/gtk/toplevel.h"
+	"wx/gtk1/toplevel.h"
+	"wx/x11/toplevel.h"
+	"wx/dfb/toplevel.h"
+	"wx/osx/toplevel.h"
+	"wx/cocoa/toplevel.h"
+	"wx/os2/toplevel.h"
+	"wx/motif/toplevel.h"
+	"wx/univ/toplevel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/nonownedwnd.h"
+	"wx/gtk/nonownedwnd.h"
+	"wx/osx/nonownedwnd.h"
+	"wx/msw/nonownedwnd.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\nonownedwnd.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\nonownedwnd.h
+	"wx/window.h"
+	"wx/graphics.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\graphics.h
+	"wx/defs.h"
+	"wx/geometry.h"
+	"wx/dynarray.h"
+	"wx/dc.h"
+	"wx/image.h"
+	"wx/vector.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\nonownedwnd.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\iconbndl.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/icon.h"
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\weakref.h
+	"wx/tracker.h"
+	"wx/meta/convertible.h"
+	"wx/meta/int2type.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\meta\int2type.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dfb\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\toplevel.h
+	"wx/hashmap.h"
+	"wx/cocoa/NSWindow.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\nswindow.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\toplevel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\toplevel.h
+	"wx/univ/inpcons.h"
+	"wx/univ/inphand.h"
+	"wx/icon.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\inpcons.h
+	"wx/object.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\inphand.h
+	"wx/univ/inpcons.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\statusbr.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/list.h"
+	"wx/dynarray.h"
+	"wx/univ/statusbr.h"
+	"wx/msw/statusbar.h"
+	"wx/generic/statusbr.h"
+	"wx/osx/statusbr.h"
+	"wx/generic/statusbr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\control.h
+	"wx/defs.h"
+	"wx/window.h"
+	"wx/univ/control.h"
+	"wx/msw/control.h"
+	"wx/motif/control.h"
+	"wx/gtk/control.h"
+	"wx/gtk1/control.h"
+	"wx/osx/control.h"
+	"wx/cocoa/control.h"
+	"wx/os2/control.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\control.h
+	"wx/univ/inphand.h"
+	"wx/univ/inpcons.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\control.h
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\control.h
+	"wx/window.h"
+	"wx/list.h"
+	"wx/validate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\control.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\control.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+	"wx/window.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\control.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\control.h
+	"wx/cocoa/NSControl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\nscontrol.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\control.h
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\statusbr.h
+	"wx/univ/inpcons.h"
+	"wx/arrstr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\statusbar.h
+	"wx/vector.h"
+	"wx/tooltip.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\tooltip.h
+	"wx/defs.h"
+	"wx/msw/tooltip.h"
+	"wx/gtk/tooltip.h"
+	"wx/gtk1/tooltip.h"
+	"wx/osx/tooltip.h"
+	"wx/cocoa/tooltip.h"
+	"wx/os2/tooltip.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\tooltip.h
+	"wx/object.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\tooltip.h
+	"wx/string.h"
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\tooltip.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\tooltip.h
+	"wx/string.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\tooltip.h
+	"wx/object.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\tooltip.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\statusbr.h
+	"wx/defs.h"
+	"wx/pen.h"
+	"wx/arrstr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\statusbr.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\frame.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\frame.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\frame.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\frame.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\frame.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\frame.h
+	"wx/toolbar.h"
+	"wx/accel.h"
+	"wx/icon.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\toolbar.h
+	"wx/defs.h"
+	"wx/tbarbase.h"
+	"wx/univ/toolbar.h"
+	"wx/msw/toolbar.h"
+	"wx/msw/wince/tbarwce.h"
+	"wx/motif/toolbar.h"
+	"wx/gtk/toolbar.h"
+	"wx/gtk1/toolbar.h"
+	"wx/osx/toolbar.h"
+	"wx/cocoa/toolbar.h"
+	"wx/os2/toolbar.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\tbarbase.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/list.h"
+	"wx/control.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\toolbar.h
+	"wx/button.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\button.h
+	"wx/defs.h"
+	"wx/anybutton.h"
+	"wx/univ/button.h"
+	"wx/msw/button.h"
+	"wx/motif/button.h"
+	"wx/gtk/button.h"
+	"wx/gtk1/button.h"
+	"wx/osx/button.h"
+	"wx/cocoa/button.h"
+	"wx/os2/button.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\anybutton.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/control.h"
+	"wx/univ/anybutton.h"
+	"wx/msw/anybutton.h"
+	"wx/gtk/anybutton.h"
+	"wx/osx/anybutton.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\anybutton.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\anybutton.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\anybutton.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\anybutton.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\button.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\button.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\button.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\button.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\button.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\button.h
+	"wx/control.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\button.h
+	"wx/cocoa/NSButton.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\nsbutton.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+	"wx/cocoa/ObjcRef.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\objcref.h
+	"wx/osx/core/cfref.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\button.h
+	"wx/control.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\toolbar.h
+	"wx/dynarray.h"
+	"wx/imaglist.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\imaglist.h
+	"wx/defs.h"
+	"wx/generic/imaglist.h"
+	"wx/msw/imaglist.h"
+	"wx/osx/imaglist.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\imaglist.h
+	"wx/list.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\imaglist.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\imaglist.h
+	"wx/defs.h"
+	"wx/list.h"
+	"wx/icon.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\tbarwce.h
+	"wx/dynarray.h"
+	"wx/msw/toolbar.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\toolbar.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\toolbar.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\toolbar.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\toolbar.h
+	"wx/tbarbase.h"
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\toolbar.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\toolbar.h
+	"wx/timer.h"
+	"wx/tbarbase.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\timer.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/longlong.h"
+	"wx/event.h"
+	"wx/stopwatch.h"
+	"wx/utils.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\stopwatch.h
+	"wx/defs.h"
+	"wx/longlong.h"
+	"wx/time.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\time.h
+	"wx/longlong.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\frame.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\frame.h
+	"wx/os2/wxrsc.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\wxrsc.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\app.h
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\app.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\app.h
+	"wx/osx/core/cfref.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\app.h
+	<types.h>
+	<sys/ioctl.h>
+	<sys/select.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<utils.h>
+	<types.h>
+	"wx/event.h"
+	"wx/icon.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\theme.h
+	"wx/string.h"
+
+1622139075 c:\users\marci\desktop\interfejs — kopia\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\dialog.h
+	"wx/toplevel.h"
+	"wx/containr.h"
+	"wx/sharedptr.h"
+	"wx/univ/dialog.h"
+	"wx/msw/dialog.h"
+	"wx/motif/dialog.h"
+	"wx/gtk/dialog.h"
+	"wx/gtk1/dialog.h"
+	"wx/osx/dialog.h"
+	"wx/cocoa/dialog.h"
+	"wx/os2/dialog.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\containr.h
+	"wx/defs.h"
+	"wx/event.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\sharedptr.h
+	"wx/defs.h"
+	"wx/atomic.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\atomic.h
+	"wx/defs.h"
+	"wx/msw/wrapwin.h"
+	"libkern/OSAtomic.h"
+	<atomic.h>
+	"wx/thread.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\dialog.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\dialog.h
+	"wx/panel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\panel.h
+	"wx/window.h"
+	"wx/containr.h"
+	"wx/univ/panel.h"
+	"wx/msw/panel.h"
+	"wx/generic/panelg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\panel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\panel.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\panelg.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\dialog.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\dialog.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\dialog.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\dialog.h
+	"wx/panel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\dialog.h
+	"wx/defs.h"
+	"wx/panel.h"
+	"wx/cocoa/NSPanel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\nspanel.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\dialog.h
+	"wx/panel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\sizer.h
+	"wx/defs.h"
+	"wx/window.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\textctrl.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/textentry.h"
+	"wx/dynarray.h"
+	"wx/gdicmn.h"
+	"wx/ioswrap.h"
+	"wx/x11/textctrl.h"
+	"wx/univ/textctrl.h"
+	"wx/msw/wince/textctrlce.h"
+	"wx/msw/textctrl.h"
+	"wx/motif/textctrl.h"
+	"wx/gtk/textctrl.h"
+	"wx/gtk1/textctrl.h"
+	"wx/osx/textctrl.h"
+	"wx/cocoa/textctrl.h"
+	"wx/os2/textctrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\textentry.h
+	"wx/filefn.h"
+	"wx/gdicmn.h"
+	"wx/gtk/textentry.h"
+	"wx/osx/textentry.h"
+	"wx/msw/textentry.h"
+	"wx/motif/textentry.h"
+	"wx/os2/textentry.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\textentry.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\textentry.h
+	"wx/control.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\textentry.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\textentry.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\textentry.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\ioswrap.h
+	"wx/beforestd.h"
+	<iostream.h>
+	<iostream>
+	"wx/afterstd.h"
+	"wx/msw/winundef.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\x11\textctrl.h
+	"wx/univ/textctrl.h"
+	"wx/scrolwin.h"
+	"wx/arrstr.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\textctrl.h
+	"wx/scrolwin.h"
+	"wx/univ/inphand.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\scrolwin.h
+	"wx/panel.h"
+	"wx/gtk/scrolwin.h"
+	"wx/gtk1/scrolwin.h"
+	"wx/generic/scrolwin.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\scrolwin.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\scrolwin.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\scrolwin.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\textctrlce.h
+	"wx/dynarray.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\textctrl.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\textctrl.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\textctrl.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\textctrl.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\textctrl.h
+	"wx/control.h"
+	"wx/textctrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\textctrl.h
+	"wx/cocoa/NSTextField.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\nstextfield.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\textctrl.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\tglbtn.h
+	"wx/defs.h"
+	"wx/event.h"
+	"wx/anybutton.h"
+	"wx/univ/tglbtn.h"
+	"wx/msw/tglbtn.h"
+	"wx/gtk/tglbtn.h"
+	"wx/gtk1/tglbtn.h"
+	"wx/motif/tglbtn.h"
+	"wx/osx/tglbtn.h"
+	"wx/os2/tglbtn.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\tglbtn.h
+	"wx/button.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\tglbtn.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\tglbtn.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\tglbtn.h
+	"wx/bitmap.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\tglbtn.h
+	"wx/checkbox.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\checkbox.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/univ/checkbox.h"
+	"wx/msw/checkbox.h"
+	"wx/motif/checkbox.h"
+	"wx/gtk/checkbox.h"
+	"wx/gtk1/checkbox.h"
+	"wx/osx/checkbox.h"
+	"wx/cocoa/checkbox.h"
+	"wx/os2/checkbox.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\univ\checkbox.h
+	"wx/button.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\checkbox.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\checkbox.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\checkbox.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\checkbox.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\checkbox.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\checkbox.h
+	"wx/cocoa/NSButton.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\checkbox.h
+	"wx/control.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\tglbtn.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\tglbtn.h
+
+1584209018 source:c:\users\marci\desktop\interfejs — kopia\resource.rc
+	"wx/msw/wx.rc"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/wince/wince.rc"
+	"wx/msw/rcdefs.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\wince.rc
+	<commctrl.h>
+	"wx/msw/wince/resources.h"
+	"wx/msw/wince/smartphone.rc"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\resources.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\wince\smartphone.rc
+	<aygshell.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\rcdefs.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\filedlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/arrstr.h"
+	"wx/generic/filedlgg.h"
+	"wx/msw/filedlg.h"
+	"wx/motif/filedlg.h"
+	"wx/gtk/filedlg.h"
+	"wx/gtk1/filedlg.h"
+	"wx/osx/filedlg.h"
+	"wx/cocoa/filedlg.h"
+	"wx/os2/filedlg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\filedlgg.h
+	"wx/listctrl.h"
+	"wx/datetime.h"
+	"wx/filefn.h"
+	"wx/artprov.h"
+	"wx/filedlg.h"
+	"wx/generic/filectrlg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\listctrl.h
+	"wx/defs.h"
+	"wx/listbase.h"
+	"wx/msw/listctrl.h"
+	"wx/osx/listctrl.h"
+	"wx/generic/listctrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\listbase.h
+	"wx/colour.h"
+	"wx/font.h"
+	"wx/gdicmn.h"
+	"wx/event.h"
+	"wx/control.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\listctrl.h
+	"wx/textctrl.h"
+	"wx/dynarray.h"
+	"wx/vector.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\listctrl.h
+	"wx/defs.h"
+	"wx/generic/listctrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\listctrl.h
+	"wx/containr.h"
+	"wx/scrolwin.h"
+	"wx/textctrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\artprov.h
+	"wx/string.h"
+	"wx/bitmap.h"
+	"wx/icon.h"
+	"wx/iconbndl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\filectrlg.h
+	"wx/containr.h"
+	"wx/listctrl.h"
+	"wx/filectrl.h"
+	"wx/filename.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\filectrl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/event.h"
+	"wx/gtk/filectrl.h"
+	"wx/generic/filectrlg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\filectrl.h
+	"wx/control.h"
+	"wx/filectrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\filename.h
+	"wx/arrstr.h"
+	"wx/filefn.h"
+	"wx/datetime.h"
+	"wx/intl.h"
+	"wx/longlong.h"
+	"wx/file.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\file.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/convauto.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\convauto.h
+	"wx/strconv.h"
+	"wx/fontenc.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\filedlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\filedlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\filedlg.h
+	"wx/gtk/filectrl.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk1\filedlg.h
+	"wx/generic/filedlgg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\filedlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\filedlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\filedlg.h
+
+1622134301 source:c:\users\marci\desktop\interfejs — kopia\src\nowaklasa1.cpp
+	"nowaklasa1.h"
+	<fstream>
+	<string>
+
+1621722458 c:\users\marci\desktop\interfejs — kopia\include\nowaklasa1.h
+	<iostream>
+	<string>
+	<fstream>
+
+1622139594 source:c:\users\marci\desktop\interfejs — kopia\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msgdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/stockitem.h"
+	"wx/generic/msgdlgg.h"
+	"wx/cocoa/msgdlg.h"
+	"wx/msw/msgdlg.h"
+	"wx/motif/msgdlg.h"
+	"wx/gtk/msgdlg.h"
+	"wx/osx/msgdlg.h"
+	"wx/os2/msgdlg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\stockitem.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/string.h"
+	"wx/accel.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\generic\msgdlgg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\cocoa\msgdlg.h
+	"wx/msgdlg.h"
+	"wx/generic/msgdlgg.h"
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\msw\msgdlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\motif\msgdlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\gtk\msgdlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\osx\msgdlg.h
+
+1587560968 c:\codeblocksdodatki\wxwidgets-3.0.5\include\wx\os2\msgdlg.h
+
+1622134301 source:c:\users\marci\desktop\interfejs — kopia\src\wyswietlanie.cpp
+	"wyswietlanie.h"
+	<fstream>
+	<string>
+
+1622134366 c:\users\marci\desktop\interfejs — kopia\include\wyswietlanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1622137629 source:c:\users\marci\desktop\interfejs — kopia\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1622137659 c:\users\marci\desktop\interfejs — kopia\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1622139523 source:c:\users\marci\desktop\interfejs — kopia\src\rozwiazywanie.cpp
+	"rozwiazywanie.h"
+
+1622139523 c:\users\marci\desktop\interfejs — kopia\include\rozwiazywanie.h
+
+1624055322 source:c:\users\marci\desktop\projekt programowanie\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1624055322 c:\users\marci\desktop\projekt programowanie\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1624055323 c:\users\marci\desktop\projekt programowanie\projekt programu\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1624055323 source:c:\users\marci\desktop\projekt programowanie\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1624055336 source:c:\users\marci\desktop\projekt programowanie\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1624055334 c:\users\marci\desktop\projekt programowanie\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1622148384 source:c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1622148384 c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1622236729 c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1622194325 source:c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1622148393 c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1622148385 source:c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1622148394 source:c:\users\alice\desktop\projektt\projekt programowanie\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1622148384 source:c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1622148384 c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1622236729 c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1622238702 source:c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1622148393 c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1622148385 source:c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1622148394 source:c:\users\alice\desktop\projekt\projekt programowanie\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1623937853 source:c:\users\marci\desktop\projekt programowanie\projekt programu\src\algorytm.cpp
+	"algorytm.h"
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1624055334 c:\users\marci\desktop\projekt programowanie\projekt programu\include\algorytm.h
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1624667739 source:c:\users\marci\desktop\projekt programowanie\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	"zapisywanie.h"
+	"algorytm.h"
+	<iostream>
+	<fstream>
+	<string>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1624055335 c:\users\marci\desktop\projekt programowanie\projekt programu\include\zapisywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1624055336 source:c:\users\marci\desktop\projekt programowanie\projekt programu\src\zapisywanie.cpp
+	"zapisywanie.h"
+	<fstream>
+	<string>
+
+1624055322 source:c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1624055322 c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1624055323 c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1624055818 source:c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	"zapisywanie.h"
+	"algorytm.h"
+	<iostream>
+	<fstream>
+	<string>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1624055334 c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1624055335 c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\include\zapisywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1624055334 c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\include\algorytm.h
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1624055323 source:c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1624055336 source:c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1624055336 source:c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\src\zapisywanie.cpp
+	"zapisywanie.h"
+	<fstream>
+	<string>
+
+1624055336 source:c:\users\alice\desktop\sudoku1706\projekt programowanie\projekt programu\src\algorytm.cpp
+	"algorytm.h"
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1624055322 source:c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1624055322 c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1624055323 c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\interfejsmain.h
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+	<wx/tglbtn.h>
+
+1624667739 source:c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	"zapisywanie.h"
+	"algorytm.h"
+	<iostream>
+	<fstream>
+	<string>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1624055334 c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1624055335 c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\include\zapisywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1624055334 c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\include\algorytm.h
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1624055323 source:c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1624055336 source:c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\src\algorytm.cpp
+	"algorytm.h"
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1624055336 source:c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1624055336 source:c:\users\alice\desktop\sudoku2606\projekt programowanie\projekt programu\src\zapisywanie.cpp
+	"zapisywanie.h"
+	<fstream>
+	<string>
+
+1625040569 source:c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1625040569 c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1625437979 c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\interfejsmain.h
+	<wx/button.h>
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+
+1625040570 source:c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1625040583 source:c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\src\zapisywanie.cpp
+	"zapisywanie.h"
+	<fstream>
+	<string>
+
+1625040581 c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\include\zapisywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1625438084 source:c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	"zapisywanie.h"
+	"algorytm.h"
+	<iostream>
+	<fstream>
+	<string>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1625040581 c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1625040581 c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\include\algorytm.h
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1625040583 source:c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\src\algorytm.cpp
+	"algorytm.h"
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1625040583 source:c:\users\alice\desktop\sudoku2906\projekt programowanie\do wys³ania\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1625040569 source:c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1625040569 c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1625437979 c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\interfejsmain.h
+	<wx/button.h>
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+
+1625438084 source:c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	"zapisywanie.h"
+	"algorytm.h"
+	<iostream>
+	<fstream>
+	<string>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1625040581 c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1625040581 c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\include\zapisywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1625040581 c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\include\algorytm.h
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1625040570 source:c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1625040583 source:c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\src\algorytm.cpp
+	"algorytm.h"
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1625040583 source:c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1625040583 source:c:\users\alice\desktop\sudoku0507\projekt programowanie\do wys³ania\projekt programu\src\zapisywanie.cpp
+	"zapisywanie.h"
+	<fstream>
+	<string>
+
+1625040569 source:d:\projekt programowanie\do wys³ania\projekt programu\interfejsapp.cpp
+	"interfejsApp.h"
+	"interfejsMain.h"
+	<wx/image.h>
+
+1625040569 d:\projekt programowanie\do wys³ania\projekt programu\interfejsapp.h
+	<wx/app.h>
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\app.h
+	"wx/event.h"
+	"wx/eventfilter.h"
+	"wx/build.h"
+	"wx/cmdargs.h"
+	"wx/init.h"
+	"wx/intl.h"
+	"wx/log.h"
+	"wx/unix/app.h"
+	"wx/msw/app.h"
+	"wx/motif/app.h"
+	"wx/dfb/app.h"
+	"wx/gtk/app.h"
+	"wx/gtk1/app.h"
+	"wx/x11/app.h"
+	"wx/osx/app.h"
+	"wx/cocoa/app.h"
+	"wx/os2/app.h"
+	"wx/univ/theme.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\event.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/object.h"
+	"wx/clntdata.h"
+	"wx/gdicmn.h"
+	"wx/cursor.h"
+	"wx/mousestate.h"
+	"wx/dynarray.h"
+	"wx/thread.h"
+	"wx/tracker.h"
+	"wx/typeinfo.h"
+	"wx/any.h"
+	"wx/meta/convertible.h"
+	"wx/meta/removeref.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\object.h
+	"wx/memory.h"
+	"wx/xti.h"
+	"wx/rtti.h"
+	"wx/xti2.h"
+	"wx/msw/msvcrt.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\msvcrt.h
+	<stdlib.h>
+	<crtdbg.h>
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cursor.h
+	"wx/defs.h"
+	"wx/msw/cursor.h"
+	"wx/motif/cursor.h"
+	"wx/gtk/cursor.h"
+	"wx/gtk1/cursor.h"
+	"wx/x11/cursor.h"
+	"wx/dfb/cursor.h"
+	"wx/osx/cursor.h"
+	"wx/cocoa/cursor.h"
+	"wx/os2/cursor.h"
+	"wx/utils.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\cursor.h
+	"wx/msw/gdiimage.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\list.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/vector.h"
+	"wx/beforestd.h"
+	<algorithm>
+	<iterator>
+	<list>
+	"wx/afterstd.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\string.h
+	"wx/defs.h"
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdarg.h>
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdarg.h>
+	<limits.h>
+	<stdlib.h>
+	"wx/wxcrtbase.h"
+	"wx/strvararg.h"
+	"wx/buffer.h"
+	"wx/strconv.h"
+	"wx/stringimpl.h"
+	"wx/stringops.h"
+	"wx/unichar.h"
+	"wx/tls.h"
+	"wx/iosfwrap.h"
+	"wx/crt.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\tls.h
+	"wx/defs.h"
+	"wx/msw/tls.h"
+	"wx/os2/tls.h"
+	"wx/unix/tls.h"
+	<stdlib.h>
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\tls.h
+	"wx/msw/wrapwin.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\wrapwin.h
+	"wx/platform.h"
+	<winsock2.h>
+	<windows.h>
+	"wx/msw/winundef.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\winundef.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\tls.h
+	"wx/os2/private.h"
+	"wx/thread.h"
+	"wx/vector.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\private.h
+	<os2.h>
+	<os2def.h>
+	<X11/Xmd.h>
+	<Xm/VendorSP.h>
+	<types.h>
+	<tcpustd.h>
+	<sys/time.h>
+	"wx/dlimpexp.h"
+	"wx/fontenc.h"
+	"wx/thread.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/image.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\colour.h
+	"wx/defs.h"
+	"wx/gdiobj.h"
+	"wx/variant.h"
+	"wx/msw/colour.h"
+	"wx/motif/colour.h"
+	"wx/gtk/colour.h"
+	"wx/gtk1/colour.h"
+	"wx/generic/colour.h"
+	"wx/x11/colour.h"
+	"wx/osx/colour.h"
+	"wx/cocoa/colour.h"
+	"wx/os2/colour.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\colour.h
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\colour.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\palette.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/msw/palette.h"
+	"wx/x11/palette.h"
+	"wx/generic/paletteg.h"
+	"wx/osx/palette.h"
+	"wx/os2/palette.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\palette.h
+	"wx/gdiobj.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\palette.h
+	"wx/list.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\paletteg.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\palette.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\colour.h
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\colour.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/palette.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\osx\colour.h
+	"wx/osx/core/colour.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\colour.h
+	"wx/object.h"
+	"wx/string.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\colour.h
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\cursor.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\cursor.h
+	"wx/bitmap.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\bitmap.h
+	"wx/string.h"
+	"wx/gdicmn.h"
+	"wx/colour.h"
+	"wx/image.h"
+	"wx/variant.h"
+	"wx/msw/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/gtk/bitmap.h"
+	"wx/gtk1/bitmap.h"
+	"wx/x11/bitmap.h"
+	"wx/dfb/bitmap.h"
+	"wx/osx/bitmap.h"
+	"wx/cocoa/bitmap.h"
+	"wx/os2/bitmap.h"
+	"wx/generic/mask.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\bitmap.h
+	"wx/msw/gdiimage.h"
+	"wx/math.h"
+	"wx/palette.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\bitmap.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\bitmap.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/palette.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\bitmap.h
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\dfbptr.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\bitmap.h
+	"wx/palette.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\bitmap.h
+	"wx/os2/private.h"
+	"wx/os2/gdiimage.h"
+	"wx/gdicmn.h"
+	"wx/palette.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\gdiimage.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/list.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\mask.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\cursor.h
+	"wx/bitmap.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\init.h
+	"wx/defs.h"
+	"wx/chartype.h"
+	"wx/msw/init.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\init.h
+	"wx/msw/wrapwin.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\log.h
+	"wx/defs.h"
+	"wx/cpp.h"
+	"wx/string.h"
+	"wx/strvararg.h"
+	"wx/arrstr.h"
+	<time.h>
+	"wx/dynarray.h"
+	"wx/hashmap.h"
+	"wx/thread.h"
+	"wx/iosfwrap.h"
+	"wx/generic/logg.h"
+	"wx/cocoa/log.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\logg.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\log.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\app.h
+	"wx/event.h"
+	"wx/icon.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\icon.h
+	"wx/iconloc.h"
+	"wx/msw/icon.h"
+	"wx/motif/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/generic/icon.h"
+	"wx/osx/icon.h"
+	"wx/generic/icon.h"
+	"wx/cocoa/icon.h"
+	"wx/os2/icon.h"
+	"wx/variant.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\icon.h
+	"wx/msw/gdiimage.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\icon.h
+	"wx/bitmap.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\icon.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\icon.h
+	"wx/bitmap.h"
+	"wx/os2/gdiimage.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\app.h
+	"wx/dfb/dfbptr.h"
+	"wx/vidmode.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\app.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\app.h
+	"wx/frame.h"
+	"wx/icon.h"
+	"wx/strconv.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\frame.h
+	"wx/toplevel.h"
+	"wx/statusbr.h"
+	"wx/univ/frame.h"
+	"wx/msw/frame.h"
+	"wx/gtk/frame.h"
+	"wx/gtk1/frame.h"
+	"wx/motif/frame.h"
+	"wx/osx/frame.h"
+	"wx/cocoa/frame.h"
+	"wx/os2/frame.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\toplevel.h
+	"wx/nonownedwnd.h"
+	"wx/iconbndl.h"
+	"wx/weakref.h"
+	"wx/msw/toplevel.h"
+	"wx/gtk/toplevel.h"
+	"wx/gtk1/toplevel.h"
+	"wx/x11/toplevel.h"
+	"wx/dfb/toplevel.h"
+	"wx/osx/toplevel.h"
+	"wx/cocoa/toplevel.h"
+	"wx/os2/toplevel.h"
+	"wx/motif/toplevel.h"
+	"wx/univ/toplevel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/nonownedwnd.h"
+	"wx/gtk/nonownedwnd.h"
+	"wx/osx/nonownedwnd.h"
+	"wx/msw/nonownedwnd.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\window.h
+	"wx/event.h"
+	"wx/list.h"
+	"wx/cursor.h"
+	"wx/font.h"
+	"wx/colour.h"
+	"wx/region.h"
+	"wx/utils.h"
+	"wx/intl.h"
+	"wx/validate.h"
+	"wx/palette.h"
+	"wx/accel.h"
+	"wx/access.h"
+	"wx/msw/window.h"
+	"wx/motif/window.h"
+	"wx/gtk/window.h"
+	"wx/gtk1/window.h"
+	"wx/x11/window.h"
+	"wx/dfb/window.h"
+	"wx/osx/window.h"
+	"wx/cocoa/window.h"
+	"wx/os2/window.h"
+	"wx/univ/window.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\font.h
+	"wx/defs.h"
+	"wx/fontenc.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/font.h"
+	"wx/motif/font.h"
+	"wx/gtk/font.h"
+	"wx/gtk1/font.h"
+	"wx/x11/font.h"
+	"wx/dfb/font.h"
+	"wx/osx/font.h"
+	"wx/cocoa/font.h"
+	"wx/os2/font.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\font.h
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\font.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\font.h
+	"wx/hash.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\font.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\font.h
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\font.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\font.h
+	"wx/gdiobj.h"
+	"wx/os2/private.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\region.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/region.h"
+	"wx/gtk/region.h"
+	"wx/gtk1/region.h"
+	"wx/x11/region.h"
+	"wx/dfb/region.h"
+	"wx/osx/region.h"
+	"wx/cocoa/region.h"
+	"wx/os2/region.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\region.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\region.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\region.h
+	"wx/list.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\region.h
+	"wx/list.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\region.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\osx\region.h
+	"wx/osx/carbon/region.h"
+	"wx/generic/region.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\region.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\region.h
+	"wx/generic/region.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\region.h
+	"wx/list.h"
+	"wx/os2/private.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\accel.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/generic/accel.h"
+	"wx/msw/accel.h"
+	"wx/motif/accel.h"
+	"wx/gtk/accel.h"
+	"wx/gtk1/accel.h"
+	"wx/osx/accel.h"
+	"wx/generic/accel.h"
+	"wx/os2/accel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\accel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\accel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\accel.h
+	"wx/generic/accel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\accel.h
+	"wx/generic/accel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\accel.h
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\access.h
+	"wx/defs.h"
+	"wx/variant.h"
+	"wx/msw/ole/access.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\ole\access.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\window.h
+	"wx/settings.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\window.h
+	"wx/dynarray.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\window.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\window.h
+	"wx/region.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\window.h
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\window.h
+	"wx/cocoa/NSView.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\nsview.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\objcassociate.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\window.h
+	<os2.h>
+	"wx/hash.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\nonownedwnd.h
+	"wx/window.h"
+	"wx/dfb/dfbptr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\nonownedwnd.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\nonownedwnd.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\toplevel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\toplevel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\toplevel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\toplevel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\toplevel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\toplevel.h
+	"wx/hashmap.h"
+	"wx/cocoa/NSWindow.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\nswindow.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\toplevel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\statusbr.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/list.h"
+	"wx/dynarray.h"
+	"wx/univ/statusbr.h"
+	"wx/msw/statusbar.h"
+	"wx/generic/statusbr.h"
+	"wx/osx/statusbr.h"
+	"wx/generic/statusbr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\control.h
+	"wx/defs.h"
+	"wx/window.h"
+	"wx/univ/control.h"
+	"wx/msw/control.h"
+	"wx/motif/control.h"
+	"wx/gtk/control.h"
+	"wx/gtk1/control.h"
+	"wx/osx/control.h"
+	"wx/cocoa/control.h"
+	"wx/os2/control.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\control.h
+	"wx/dynarray.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\control.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\control.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+	"wx/window.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\control.h
+	"wx/cocoa/NSControl.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\nscontrol.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\control.h
+	"wx/dynarray.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\statusbar.h
+	"wx/vector.h"
+	"wx/tooltip.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\tooltip.h
+	"wx/defs.h"
+	"wx/msw/tooltip.h"
+	"wx/gtk/tooltip.h"
+	"wx/gtk1/tooltip.h"
+	"wx/osx/tooltip.h"
+	"wx/cocoa/tooltip.h"
+	"wx/os2/tooltip.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\tooltip.h
+	"wx/object.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\tooltip.h
+	"wx/string.h"
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\tooltip.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\tooltip.h
+	"wx/object.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\tooltip.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\statusbr.h
+	"wx/defs.h"
+	"wx/pen.h"
+	"wx/arrstr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+	"wx/msw/pen.h"
+	"wx/x11/pen.h"
+	"wx/gtk/pen.h"
+	"wx/gtk1/pen.h"
+	"wx/dfb/pen.h"
+	"wx/osx/pen.h"
+	"wx/cocoa/pen.h"
+	"wx/os2/pen.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\pen.h
+	"wx/gdicmn.h"
+	"wx/gdiobj.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\pen.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dfb\pen.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/string.h"
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\pen.h
+	"wx/gdiobj.h"
+	"wx/gdicmn.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\pen.h
+	"wx/gdiobj.h"
+	"wx/bitmap.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\frame.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\frame.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\frame.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\frame.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\frame.h
+	"wx/os2/wxrsc.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\wxrsc.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\app.h
+	"wx/gdicmn.h"
+	"wx/event.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\app.h
+	"wx/osx/core/cfref.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\app.h
+	<types.h>
+	<sys/ioctl.h>
+	<sys/select.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<utils.h>
+	<types.h>
+	"wx/event.h"
+	"wx/icon.h"
+
+1625437979 d:\projekt programowanie\do wys³ania\projekt programu\interfejsmain.h
+	<wx/button.h>
+	<wx/dialog.h>
+	<wx/filedlg.h>
+	<wx/sizer.h>
+	<wx/textctrl.h>
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\button.h
+	"wx/defs.h"
+	"wx/anybutton.h"
+	"wx/univ/button.h"
+	"wx/msw/button.h"
+	"wx/motif/button.h"
+	"wx/gtk/button.h"
+	"wx/gtk1/button.h"
+	"wx/osx/button.h"
+	"wx/cocoa/button.h"
+	"wx/os2/button.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\anybutton.h
+	"wx/defs.h"
+	"wx/bitmap.h"
+	"wx/control.h"
+	"wx/univ/anybutton.h"
+	"wx/msw/anybutton.h"
+	"wx/gtk/anybutton.h"
+	"wx/osx/anybutton.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\anybutton.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\anybutton.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\button.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\button.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\button.h
+	"wx/defs.h"
+	"wx/object.h"
+	"wx/list.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\button.h
+	"wx/cocoa/NSButton.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\nsbutton.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+	"wx/cocoa/ObjcRef.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\objcref.h
+	"wx/osx/core/cfref.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\button.h
+	"wx/control.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\dialog.h
+	"wx/toplevel.h"
+	"wx/containr.h"
+	"wx/sharedptr.h"
+	"wx/univ/dialog.h"
+	"wx/msw/dialog.h"
+	"wx/motif/dialog.h"
+	"wx/gtk/dialog.h"
+	"wx/gtk1/dialog.h"
+	"wx/osx/dialog.h"
+	"wx/cocoa/dialog.h"
+	"wx/os2/dialog.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\dialog.h
+	"wx/panel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\panel.h
+	"wx/window.h"
+	"wx/containr.h"
+	"wx/univ/panel.h"
+	"wx/msw/panel.h"
+	"wx/generic/panelg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\panel.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\panelg.h
+	"wx/bitmap.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\dialog.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\dialog.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\dialog.h
+	"wx/defs.h"
+	"wx/panel.h"
+	"wx/cocoa/NSPanel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\nspanel.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\dialog.h
+	"wx/panel.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\filedlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/arrstr.h"
+	"wx/generic/filedlgg.h"
+	"wx/msw/filedlg.h"
+	"wx/motif/filedlg.h"
+	"wx/gtk/filedlg.h"
+	"wx/gtk1/filedlg.h"
+	"wx/osx/filedlg.h"
+	"wx/cocoa/filedlg.h"
+	"wx/os2/filedlg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\filedlgg.h
+	"wx/listctrl.h"
+	"wx/datetime.h"
+	"wx/filefn.h"
+	"wx/artprov.h"
+	"wx/filedlg.h"
+	"wx/generic/filectrlg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\listctrl.h
+	"wx/defs.h"
+	"wx/listbase.h"
+	"wx/msw/listctrl.h"
+	"wx/osx/listctrl.h"
+	"wx/generic/listctrl.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\listctrl.h
+	"wx/textctrl.h"
+	"wx/dynarray.h"
+	"wx/vector.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\textctrl.h
+	"wx/defs.h"
+	"wx/control.h"
+	"wx/textentry.h"
+	"wx/dynarray.h"
+	"wx/gdicmn.h"
+	"wx/ioswrap.h"
+	"wx/x11/textctrl.h"
+	"wx/univ/textctrl.h"
+	"wx/msw/wince/textctrlce.h"
+	"wx/msw/textctrl.h"
+	"wx/motif/textctrl.h"
+	"wx/gtk/textctrl.h"
+	"wx/gtk1/textctrl.h"
+	"wx/osx/textctrl.h"
+	"wx/cocoa/textctrl.h"
+	"wx/os2/textctrl.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\textentry.h
+	"wx/filefn.h"
+	"wx/gdicmn.h"
+	"wx/gtk/textentry.h"
+	"wx/osx/textentry.h"
+	"wx/msw/textentry.h"
+	"wx/motif/textentry.h"
+	"wx/os2/textentry.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\textentry.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\textentry.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\textentry.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\x11\textctrl.h
+	"wx/univ/textctrl.h"
+	"wx/scrolwin.h"
+	"wx/arrstr.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\scrolwin.h
+	"wx/panel.h"
+	"wx/gtk/scrolwin.h"
+	"wx/gtk1/scrolwin.h"
+	"wx/generic/scrolwin.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\scrolwin.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\scrolwin.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\scrolwin.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\wince\textctrlce.h
+	"wx/dynarray.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\textctrl.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\textctrl.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\textctrl.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\textctrl.h
+	"wx/cocoa/NSTextField.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\nstextfield.h
+	"wx/hashmap.h"
+	"wx/cocoa/ObjcAssociate.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\textctrl.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\listctrl.h
+	"wx/containr.h"
+	"wx/scrolwin.h"
+	"wx/textctrl.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\filectrlg.h
+	"wx/containr.h"
+	"wx/listctrl.h"
+	"wx/filectrl.h"
+	"wx/filename.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\filectrl.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/event.h"
+	"wx/gtk/filectrl.h"
+	"wx/generic/filectrlg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\filectrl.h
+	"wx/control.h"
+	"wx/filectrl.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\filename.h
+	"wx/arrstr.h"
+	"wx/filefn.h"
+	"wx/datetime.h"
+	"wx/intl.h"
+	"wx/longlong.h"
+	"wx/file.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\file.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/convauto.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\filedlg.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\filedlg.h
+	"wx/gtk/filectrl.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk1\filedlg.h
+	"wx/generic/filedlgg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\filedlg.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\filedlg.h
+
+1625438084 source:d:\projekt programowanie\do wys³ania\projekt programu\interfejsmain.cpp
+	"interfejsMain.h"
+	<wx/msgdlg.h>
+	"wczytywanie.h"
+	"zapisywanie.h"
+	"algorytm.h"
+	<iostream>
+	<fstream>
+	<string>
+	<wx/font.h>
+	<wx/intl.h>
+	<wx/settings.h>
+	<wx/string.h>
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msgdlg.h
+	"wx/defs.h"
+	"wx/dialog.h"
+	"wx/stockitem.h"
+	"wx/generic/msgdlgg.h"
+	"wx/cocoa/msgdlg.h"
+	"wx/msw/msgdlg.h"
+	"wx/motif/msgdlg.h"
+	"wx/gtk/msgdlg.h"
+	"wx/osx/msgdlg.h"
+	"wx/os2/msgdlg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\generic\msgdlgg.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\cocoa\msgdlg.h
+	"wx/msgdlg.h"
+	"wx/generic/msgdlgg.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\msgdlg.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\gtk\msgdlg.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\os2\msgdlg.h
+
+1625040581 d:\projekt programowanie\do wys³ania\projekt programu\include\wczytywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1625040581 d:\projekt programowanie\do wys³ania\projekt programu\include\zapisywanie.h
+	<iostream>
+	<string>
+	<fstream>
+
+1625040581 d:\projekt programowanie\do wys³ania\projekt programu\include\algorytm.h
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1625040570 source:d:\projekt programowanie\do wys³ania\projekt programu\resource.rc
+	"wx/msw/wx.rc"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/wince/wince.rc"
+	"wx/msw/rcdefs.h"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\wince\wince.rc
+	<commctrl.h>
+	"wx/msw/wince/resources.h"
+	"wx/msw/wince/smartphone.rc"
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\wince\resources.h
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\wince\smartphone.rc
+	<aygshell.h>
+
+1587560968 c:\cb-dodatki\wxwidgets-3.0.5\include\wx\msw\rcdefs.h
+
+1625040583 source:d:\projekt programowanie\do wys³ania\projekt programu\src\algorytm.cpp
+	"algorytm.h"
+	<iostream>
+	<set>
+	<fstream>
+	<string>
+
+1625040583 source:d:\projekt programowanie\do wys³ania\projekt programu\src\wczytywanie.cpp
+	"wczytywanie.h"
+	<fstream>
+	<string>
+
+1625040583 source:d:\projekt programowanie\do wys³ania\projekt programu\src\zapisywanie.cpp
+	"zapisywanie.h"
+	<fstream>
+	<string>
+
